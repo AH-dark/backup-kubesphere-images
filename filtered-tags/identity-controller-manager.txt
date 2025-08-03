@@ -1,0 +1,4 @@
+latest
+v1.0.0-cmft
+v1.0.1-cmft
+v1.0.2-cmft

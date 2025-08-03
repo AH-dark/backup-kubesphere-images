@@ -10,5 +10,5 @@ while read -r IMAGE; do
     DST="${DST_REG}/${IMAGE}:${TAG}"
     echo "📦 Copying $SRC → $DST"
     skopeo copy --insecure-policy --all "$SRC" "$DST" || echo "❌ Failed: $IMAGE:$TAG"
-  done < tags/${IMAGE}.txt
+  done < filtered-tags/${IMAGE}.txt
 done < kubesphere-images.txt
