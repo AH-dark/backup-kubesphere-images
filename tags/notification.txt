@@ -1,0 +1,12 @@
+v2.1.2
+flyway-v2.1.2
+flyway_v2.1.2
+flyway-v2.1.0
+flyway_v2.1.0
+v2.1.0
+flyway-advanced-2.0.2
+flyway_advanced-2.0.2
+advanced-2.0.2
+flyway-advanced-2.0.0
+advanced-2.0.0
+flyaway-advanced-2.0.0

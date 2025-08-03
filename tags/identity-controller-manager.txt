@@ -1,0 +1,14 @@
+latest
+v1.0.2-cmft
+cmft-main
+v1.0.1-cmft
+v1.0.0-cmft
+main
+pr-10
+pr-11
+pr-9
+pr-8
+pr-7
+pr-6
+pr-5
+pr-4

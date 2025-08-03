@@ -1,0 +1,4 @@
+flyway-v3.0.0
+flyway-v2.1.0
+flyway-advanced-2.0.2
+flyway-advanced-2.0.0

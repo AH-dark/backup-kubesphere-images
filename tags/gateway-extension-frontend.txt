@@ -1,0 +1,15 @@
+main
+v1.1.1-cmft.rc.1
+v1.1.1
+v1.1.1-cmft.rc.0
+v1.1.0-cmft
+v1.1.1-beta.1
+cmft-5
+v1.1.0
+v1.1.1-beta.0
+v1.1.0-alpha.4
+v1.1.0-alpha.3
+v1.1.0-alpha.2
+v1.1.0-alpha.1
+v1.1.0-alpha.0
+v1.0.3-alpha.0

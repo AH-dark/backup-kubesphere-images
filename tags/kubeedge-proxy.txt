@@ -1,0 +1,7 @@
+latest
+sha-b97f95f
+v0.4.1
+v0.4
+master
+sha-1cfd606
+v0.4.0

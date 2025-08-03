@@ -1,0 +1,11 @@
+latest
+v4.1.4-podman
+legacy-centos-podman
+v4.1.4
+v3.2.1-jdk11-podman
+v3.2.0-podman
+v3.2.1-jdk11
+v3.2.0
+v3.1.0
+v2.1.0
+advanced-1.0.0

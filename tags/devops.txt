@@ -1,0 +1,4 @@
+latest
+advanced-1.0.0
+flyway-advanced-1.0.0
+flyway

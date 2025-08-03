@@ -1,0 +1,14 @@
+latest
+sha-d46e08f
+v4
+v4.2
+v4.2.0
+master
+sha-7eaa9f4
+sha-2363730
+v3.2.1
+v3.2.0
+v3.1.0
+v2.1.1
+v2.1.0
+advanced-2.0.0
